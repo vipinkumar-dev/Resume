@@ -51,7 +51,8 @@ body {
   width: 100%;
   top: 0;
   padding: 10px 20px;
-  background-color: var(--tealish-blue);
+  /* background-color: var(--tealish-blue); */
+  background-color: red;
   z-index: 100;
 }
 .logoNavBtn {
